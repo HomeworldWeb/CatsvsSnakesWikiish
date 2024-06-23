@@ -1,0 +1,16 @@
+ul.navbar{list-style-type: none; margin: 0; padding: 0; margin-left: 20px;}
+li.navbar{display: inline; float: left;}
+a.navbar{display: block; padding: 8px;}
+/*How's the military vibe?*/
+li.navbar a.navbar{text-decoration: none; color: black; font-family: sans-serif; font-weight: bold; background: #aec49c;}
+li.navbar a.navbar:hover{background:#85b17c;}
+li.navbar a.navbar:active{background:#385233}
+h1.title{font-family:cutive mono; font-weight:100; size:30px; text-align:center;}
+body{background-image: url("noisy.png");}
+td.main{vertical-align:top; background:#5b6f4d}
+table.heading{margin:0px; width:100%;}
+.body{padding:10px; text-align:left;}
+/*To differenciate the layout tables from the actual tables*/
+.tabl table{width: 100%;}
+.tabl table, .tabl th, .tabl td{border: solid; border-collapse: collapse;}
+a{color:#022400}
